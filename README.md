@@ -1,2 +1,3 @@
 # JenkinsTestingProject
-This is a simple Jenkins Testing Repository
+This is a simple Jenkins Testing Repository with Docker
+
